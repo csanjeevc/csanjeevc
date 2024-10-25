@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csanjeevc
 - 👀 I’m interested in ... architecture evolution be it n/w, s/w, t/c
-- 🌱 I’m currently learning ... changes are constant
+- 🌱 changes are constant
 - 💞️ I’m looking to collaborate on ... humanity
 - 📫 How to reach me ... csanjeevc@gmail.com
 
